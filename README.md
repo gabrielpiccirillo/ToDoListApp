@@ -21,7 +21,7 @@ Um aplicativo de lista de tarefas desenvolvido em Flutter, permitindo adicionar,
 
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/seu-usuario/todo_list_app.git](https://github.com/gabrielpiccirillo/ToDoListApp)
+   git clone https://github.com/gabrielpiccirillo/ToDoListApp.git
    cd todo_list_app
    ```
 
@@ -81,5 +81,5 @@ Assista ao vídeo mostrando o funcionamento do aplicativo: [INSIRA_LINK_AQUI](#)
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+## Desenvolvido
+Desenvolvido por Gabriel Piccirillo para trabalho da faculdade, 2025.
