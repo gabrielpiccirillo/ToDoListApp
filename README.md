@@ -69,7 +69,7 @@ Um aplicativo de lista de tarefas desenvolvido em Flutter, permitindo adicionar,
 - Suporte responsivo para mobile e web.
 
 ## Link para a Versão Web
-Acesse a versão web hospedada em [https://to-do-list-83898.web.app](#)
+Acesse a versão web para teste: https://to-do-list-83898.web.app
 
 ## Vídeo Demonstrativo
 Assista ao vídeo mostrando o funcionamento do aplicativo: [INSIRA_LINK_AQUI](#) (substitua pelo link do vídeo, ex.: YouTube ou Google Drive).
