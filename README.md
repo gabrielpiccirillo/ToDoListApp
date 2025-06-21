@@ -21,7 +21,7 @@ Um aplicativo de lista de tarefas desenvolvido em Flutter, permitindo adicionar,
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/todo_list_app.git
+   git clone [https://github.com/seu-usuario/todo_list_app.git](https://github.com/gabrielpiccirillo/ToDoListApp)
    cd todo_list_app
    ```
 
