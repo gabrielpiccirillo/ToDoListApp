@@ -72,7 +72,8 @@ Um aplicativo de lista de tarefas desenvolvido em Flutter, permitindo adicionar,
 Acesse a versão web para teste: https://to-do-list-83898.web.app
 
 ## Vídeo Demonstrativo
-Assista ao vídeo mostrando o funcionamento do aplicativo: [C:\Users\gabri\OneDrive\Documentos\todo_list_app\TesteApp.mp4](Video de execução)
+Assista ao vídeo mostrando o funcionamento do aplicativo: 
+[Vídeo Demonstrativo](https://raw.githubusercontent.com/gabrielpiccirillo/ToDoListApp/main/TesteApp.mp4)
 
 ## Como Contribuir
 1. Faça um fork do projeto.
